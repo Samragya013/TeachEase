@@ -1,0 +1,7 @@
+Insights from Teacher Workload Analysis:
+1. Grading is the most time-intensive task, averaging 7.82 hours per instance, and accounts for 258 total hours across all teachers, indicating a prime target for automation.
+2. Teachers with high workloads, such as T1, T4, and T8, each spend 36 hours per week, suggesting a need for workload redistribution or task delegation.
+3. Planning is the least time-consuming task, averaging 3.66 hours, but still contributes significantly to total workload (117 hours), offering potential for streamlining with planning tools.
+4. Mondays have the highest workload (130 hours), driven by grading tasks, highlighting the need for better task scheduling to balance weekly demands.
+5. Larger class sizes may increase grading time, as seen in the scatter plot, suggesting that reducing class sizes or providing grading support could alleviate workload.
+6. The maximum grading time per instance is 9 hours, indicating occasional high-intensity tasks that could benefit from targeted interventions like automated grading systems.
